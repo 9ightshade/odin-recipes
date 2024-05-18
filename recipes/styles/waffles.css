@@ -1,0 +1,17 @@
+body{
+background-color: rgb(126, 92, 92);
+color: aliceblue;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+ul{
+    list-style: none;
+}
